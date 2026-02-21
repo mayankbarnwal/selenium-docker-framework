@@ -1,0 +1,33 @@
+# Maven
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+
+# Eclipse
+.metadata/
+bin/
+.settings/
+.project
+.classpath
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IntelliJ (if project ever opened there)
+.idea/
+*.iml
+
+# Test reports
+surefire-reports/
+test-output/
+
+# Temporary files
+*.tmp
+*.swp
